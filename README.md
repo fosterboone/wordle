@@ -1,2 +1,2 @@
 # wordle
-Playing around with a wordle game.
+Practicing pythong with a wordle game
